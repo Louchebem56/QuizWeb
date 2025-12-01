@@ -1,0 +1,23 @@
+#Bouttonreponse {
+    position: absolute;
+    width: 60%;
+    height: 70%;
+    bottom: 10%;
+    right: 20%;
+    background-color: green;
+}
+
+#boutton1 {
+    padding: 5%;
+}
+
+#boutton2 {
+    padding: 5%;
+    bottom: 10%;
+    position: inherit;
+}
+
+#Question1 {
+    position: absolute; 
+    right: 50%;
+}

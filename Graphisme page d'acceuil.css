@@ -1,0 +1,51 @@
+html {
+    background-color: #141414;
+    color: #DDDDDD;
+}
+
+#Titre {
+    text-align: center;
+    font-size: 200%;
+}
+
+#Identification {
+
+    width: 20%;
+    height: 15%;
+    position: fixed;
+    margin-left: 40%;
+    margin-top: 5%;
+    align-content: center;
+    position: relative;
+    background-color: #CCCCCC;
+
+}
+
+#MainIdentifie {
+    color: #141414;
+    text-align: center;
+    font-size: 150%;
+
+    position: static;
+}
+
+#Pseudoselected {
+    left: 20%;
+    position: inherit;
+}
+
+#playspace {
+    position: relative;
+    left: 50%;
+    font-size: 150%;
+    width: 10%;
+    height: 10%;
+
+
+
+}
+
+#Playbutton {
+    font-size: 130%;
+    right: 45%;
+}
